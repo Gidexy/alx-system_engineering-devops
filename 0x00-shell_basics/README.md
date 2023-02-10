@@ -10,3 +10,4 @@ The 8-firstdelete script deletes betty from the given folder
 The 9-firstdirdeletion deletes the directory
 The 10-back script takes us to the previos directory
 The 11-lists script list files in the parent directory, boot directory and current directory
+The 12-file_type script gives the type of file being checkd
