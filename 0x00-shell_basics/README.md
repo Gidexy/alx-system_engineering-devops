@@ -5,3 +5,4 @@ The 2-bring_me_home script takes us back to the home directory
  The 4-listmorefiles displays current directory files including hidden fikes in long format
  The 5-listfilesdigitonly displays files in a directory in numerical order and long format
 The 6-firstdirectory script creates a new directory in another directory
+ The 7-movethatfile script moves betty frrom tmp to the new directory
