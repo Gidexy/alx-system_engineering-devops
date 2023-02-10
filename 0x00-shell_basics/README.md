@@ -7,3 +7,4 @@ The 2-bring_me_home script takes us back to the home directory
 The 6-firstdirectory script creates a new directory in another directory
  The 7-movethatfile script moves betty frrom tmp to the new directory
 The 8-firstdelete script deletes betty from the given folder
+The 9-firstdirdeletion deletes the directory
